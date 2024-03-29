@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahu1pande
-- 👀 I’m interested in Java, SpringBoot, Python, DJango , APIs - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Python Projects and APIs
+- 👀 I’m interested in Java, SpringBoot, JavaScipt, React , APIs - 🌱 I’m learning JAVA Full Stack Development 
+- 💞️ I’m looking to collaborate on Java Projects and Web Development
 - 📫 You can reach me ... rahulpandey.rb@gmail.com
 
 <!---
