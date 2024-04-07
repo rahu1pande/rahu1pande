@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahu1pande
+- 👋 Hi, I’m Rahul Pandey
 - 👀 I’m interested in Java, SpringBoot, JavaScipt, React , APIs - 🌱 I’m learning JAVA Full Stack Development 
 - 💞️ I’m looking to collaborate on Java Projects and Web Development
 - 📫 You can reach me ... rahulpandey.rb@gmail.com
