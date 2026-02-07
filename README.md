@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Rahul Pandey
-- 👀 I’m interested in Java, SpringBoot, JavaScipt, React , APIs 
-- 💞️ I’m looking to collaborate on Spring & React Projects
+🎯 Learning Data Science passionate about transforming raw data into actionable insights.
 
-<!---
-rahu1pande/rahu1pande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in:
+📊 Data Cleaning & Exploratory Data Analysis (EDA)
+📈 Dashboard Development (Power BI)
+🧠 SQL Query Optimization & Data Modeling
+🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
