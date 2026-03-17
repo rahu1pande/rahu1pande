@@ -1,7 +1,7 @@
-🎯 Learning Data Science passionate about transforming raw data into actionable insights.
+🎯 Aspiring Java Developer passionate about building scalable, efficient, and high-performance backend systems.
 
 I specialize in:
-📊 Data Cleaning & Exploratory Data Analysis (EDA)
-📈 Dashboard Development (Power BI)
-🧠 SQL Query Optimization & Data Modeling
-🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+☕ Core Java & Object-Oriented Programming (OOP)
+⚙️ Backend Development (Spring Boot, REST APIs)
+🧠 Data Structures & Algorithms (Java-based problem solving)
+🗄️ Database Management (SQL, Query Optimization & Data Modeling)
